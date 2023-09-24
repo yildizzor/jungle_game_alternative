@@ -1,7 +1,7 @@
 # JUNGLE GAME
 
 This game is developed by Yildiz Unlu as Ironhack Module-1 Project.You can play this game
-via [this link](https://yildizzor.github.io/jungle_game/).
+via [this link](https://yildizzor.github.io/jungle_game_alternative/).
 
 ## Game Rules
 
