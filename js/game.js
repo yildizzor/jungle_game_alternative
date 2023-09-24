@@ -115,7 +115,7 @@ class Game {
     const obsLen = this.obstacles.length;
     const noObstacleLeft = obsLen === 0;
     const lastObstacleDistEnough =
-      obsLen >= 1 && this.obstacles[obsLen - 1].getDistance() > 450;
+      obsLen >= 1 && this.obstacles[obsLen - 1].getDistance() > 800;
 
     if (Math.random() > 0.98 && (noObstacleLeft || lastObstacleDistEnough)) {
       const obstacle = new Obstacle(
